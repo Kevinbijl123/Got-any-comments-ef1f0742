@@ -25,14 +25,14 @@ textarea:focus {
 textarea:focus{
     border-style: solid;
     border-width: 10px;
-    border-color: red
+    border-color: green
 }
 textarea:active {
     border-style: solid;
     border-width: 15px;
-    border-color: green
+    border-color: red
 }
 textarea{
-    border:solid green
+    border:solid red
 }
 
